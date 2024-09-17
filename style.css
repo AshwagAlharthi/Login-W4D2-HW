@@ -45,6 +45,7 @@ body {
     border: none;
     cursor: pointer;
     background-color: rgb(102, 180, 137);
+    color: white;
 }
 
 .reg-container button:hover {
@@ -95,6 +96,7 @@ a {
         border: none;
         cursor: pointer;
         background-color: rgb(102, 180, 137);
+        color: white;
     }
 
     .reg-container button:hover {
@@ -148,6 +150,7 @@ a {
         border: none;
         cursor: pointer;
         background-color: rgb(102, 180, 137);
+        color: white;
     }
 
     .reg-container button:hover {
